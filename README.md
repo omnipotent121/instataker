@@ -1,4 +1,4 @@
-# Gcode
+# Instataker
 Install Python: Ensure you have Python installed on your system. You can download and install Python from the official website: https://www.python.org/downloads/
 
 Run the Script: Open a terminal or command prompt, navigate to the directory where the script is saved, and run the script by typing:
